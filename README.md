@@ -1,5 +1,5 @@
 # 🛀 Med Spa Business Management App
-Use this program if you want to see the current weather of a city!
+Use this program if you want to convert clients' payments to USD!
 
 # 📋 How to use
 Open the app in your browser
