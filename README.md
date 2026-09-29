@@ -2,9 +2,9 @@
 Use this program if you want to convert clients' payments to USD!
 
 # 📋 How to use
-Open the app in your browser. 
-Enter amount tendered from Client. 
-Instantly view conversion to USD. 
+Open the app in your browser.  
+Enter amount tendered from Client.  
+Instantly view conversion to USD.  
 
 # 📷 Images
 <img width="1469" height="981" alt="Screenshot 2026-09-28 at 9 16 53 PM" src="https://github.com/user-attachments/assets/5457e72b-e0c1-43d1-b6af-305813ebb181" />
